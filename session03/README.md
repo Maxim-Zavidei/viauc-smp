@@ -22,7 +22,7 @@ Continuous random variables are a type of random variable that can take on an in
 <p>It is also important that you think about the relationship between the discrete case and the continuous case, and how this transfers to the relationship between sums and integrals.</p>
 
 <hr />
-<p><strong>Problems to be worked on in/after classs:</strong></p>
+<p><strong>Problems to be worked on in/after class:</strong></p>
 
 <p>(Make sure you did all of the exercises in Discrete Distributions)</p>
 
@@ -30,7 +30,7 @@ Continuous random variables are a type of random variable that can take on an in
 
 <p>Exam 2018.1</p>
 
-<p>Reexam 2018.1</p>
+<p>Re-exam 2018.1</p>
 
 <p>Exam 2020.1</p>
 

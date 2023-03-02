@@ -16,7 +16,7 @@ Point estimation and sampling are important concepts in statistics. Point estima
  <li>Maximum Likelihood Estimator</li>
 </ul>
 <hr />
-<p><strong>Problems to be worked on in/after classs:</strong></p>
+<p><strong>Problems to be worked on in/after casss:</strong></p>
 <p>ASPE: 7.2.8 + 7.2.10 + 7.3.3 + 7.3.9 + 7.4.4. (not b) + 7S13</p>
 <p>Also do Problems 5.</p>
 

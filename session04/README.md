@@ -24,7 +24,7 @@ Multivariate random variables are a collection of random variables that are corr
 </ul>
 
 <hr />
-<p><strong>Problems to be worked on in/after classs:</strong></p>
+<p><strong>Problems to be worked on in/after class:</strong></p>
 
 <p>Do Problems 4 - of special interest are 3-7, 1-2&nbsp;are warm up.</p>
 
