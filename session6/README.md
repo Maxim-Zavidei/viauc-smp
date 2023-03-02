@@ -15,7 +15,7 @@ Statistical intervals are a way of expressing the uncertainty associated with a 
      
 </ul>
 <hr />
-<p><strong>Problems to be worked on in/after classs:</strong></p>
+<p><strong>Problems to be worked on in/after class:</strong></p>
 <p>Do Problems 6</p>
 
 #### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EoY5rMCapgZLjtOdxkhvvVoBh_QnTKnGGcTPPM5vjoHd4w?e=Itlujg)
