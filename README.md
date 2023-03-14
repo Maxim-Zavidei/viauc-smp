@@ -23,11 +23,11 @@ Click on a session below to access a plan of a specific session and additional r
 
 | Session | Date                 | Topic                        |
 | ------- | :----:               | ---------------------------- |
-| 00      |                      | [Important MSE Recap](https://github.com/Maxim-Zavidei/viauc-smp1-s23/blob/main/session00/README.md)                          |
-| 01      | 9 Feb 08:20 – 11:50  | [Introduction + Recap Probability + Stochastic Variables](https://github.com/Maxim-Zavidei/viauc-smp1-s23/blob/main/session01/README.md) |
-| 02      | 16 Feb 08:20 – 11:50 | [Discrete Random Variables](https://github.com/Maxim-Zavidei/viauc-smp1-s23/blob/main/session02/README.md) |
-| 03      | 23 Feb 08:20 – 11:50 | [Continuous Random Variables](https://github.com/Maxim-Zavidei/viauc-smp1-s23/blob/main/session03/README.md) |
-| 04      | 2 Mar 08:20 – 11:50  | [Multivariate Random Variables](https://github.com/Maxim-Zavidei/viauc-smp1-s23/blob/main/session04/README.md) |
+| 00      |                      | [Important MSE Recap](https://github.com/Maxim-Zavidei/viauc-smp1-s23/tree/main/session00)                          |
+| 01      | 9 Feb 08:20 – 11:50  | [Introduction + Recap Probability + Stochastic Variables](https://github.com/Maxim-Zavidei/viauc-smp1-s23/tree/main/session01) |
+| 02      | 16 Feb 08:20 – 11:50 | [Discrete Random Variables](https://github.com/Maxim-Zavidei/viauc-smp1-s23/tree/main/session02) |
+| 03      | 23 Feb 08:20 – 11:50 | [Continuous Random Variables](https://github.com/Maxim-Zavidei/viauc-smp1-s23/tree/main/session03) |
+| 04      | 2 Mar 08:20 – 11:50  | [Multivariate Random Variables](https://github.com/Maxim-Zavidei/viauc-smp1-s23/tree/main/session04) |
 | 05      | 9 Mar 08:20 – 11:50  | [Point Estimation and sampling](https://github.com/RBrooksDK/SMP1/blob/main/05%20Point%20Estimation%20and%20sampling/README.md) |
 | 06      | 16 Mar 08:20 – 11:50 | [Statistical Intervals](https://github.com/RBrooksDK/SMP1/blob/main/06%20Statistical%20Intervals/README.md) |
 | 07      | 23 Mar 08:20 – 11:50 | [Hypothesis Testing](https://github.com/RBrooksDK/SMP1/blob/main/07%20Hypothesis%20Testing/README.md) |
